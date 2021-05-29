@@ -1,8 +1,10 @@
 
-No Presensi: 1
-Nim: 5324234
-Nama: Adi Sutomo
-URL Repository: sutomo/gamesTakTikToe
+No Presensi: 05
+Nim: 53421234 
+Nama: Albert Jordan 
+URL Repository: https://github.com/jordan/gamestiktaktoe
+
+
 
 
 
