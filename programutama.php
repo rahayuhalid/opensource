@@ -2,5 +2,7 @@
 // Ini penambahan yang saya coba
 
 function tambahData(){
+}
+fungsi tampilkanData(){
 
 }
