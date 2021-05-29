@@ -1,7 +1,8 @@
 
 No Presensi: 1
-Nama:
-URL Repository:
+Nim: 5324234
+Nama: Adi Sutomo
+URL Repository: sutomo/gamesTakTikToe
 
 
 
