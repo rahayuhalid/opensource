@@ -4,7 +4,10 @@ Nim: 53421234
 Nama: Albert Jordan 
 URL Repository: https://github.com/jordan/gamestiktaktoe
 
-
+No Presensi: 22
+Nim: 531419023
+Nama: Mohamat Nur'ain Gemu
+URL Repository: https://github.com/Ayiiegemu/TOS-Homepage
 
 
 
