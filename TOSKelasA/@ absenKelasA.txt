@@ -1,8 +1,8 @@
 
-No Presensi: 05
-Nim: 53421234 
-Nama: Albert Jordan 
-URL Repository: https://github.com/jordan/gamestiktaktoe
+No Presensi: 15
+Nim: 531419016 
+Nama: Muhammad Fatwa Ibrahim 
+URL Repository: https://github.com/fatwaibr/mekanisme-lomba/tree/main
 
 
 
