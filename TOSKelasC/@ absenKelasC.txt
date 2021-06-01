@@ -1,1 +1,5 @@
 
+No Presensi : 12
+NIM  : 531419054
+Nama : Amirrudin Paneo
+url Repository : https://github.com/AmirPaneo/Landing-Page
