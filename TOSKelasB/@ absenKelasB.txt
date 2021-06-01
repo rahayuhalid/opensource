@@ -1,1 +1,4 @@
-
+No Presensi: 21
+Nim: 531419044
+Nama: Paris Moridu
+URL Repository: https://github.com/parismoridu/pamor-resolusi
