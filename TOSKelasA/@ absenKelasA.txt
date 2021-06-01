@@ -1,8 +1,8 @@
 
 No Presensi: 05
-Nim: 53421234 
-Nama: Albert Jordan 
-URL Repository: https://github.com/jordan/gamestiktaktoe
+Nim: 531419005
+Nama: Irwanto Is. Tomu 
+URL Repository: https://github.com/irwanto04/instalasi-windows-dengan-DLC-boot
 
 No Presensi: 22
 Nim: 531419023
