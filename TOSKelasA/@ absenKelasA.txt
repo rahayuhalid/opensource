@@ -1,8 +1,8 @@
 
-No Presensi: 05
-Nim: 53421234 
-Nama: Albert Jordan 
-URL Repository: https://github.com/jordan/gamestiktaktoe
+No Presensi: 06
+Nim: 531419007
+Nama: Abd Halid Suma 
+URL Repository: https://github.com/abdHalidSuma18/TOS-Tugas
 
 
 
