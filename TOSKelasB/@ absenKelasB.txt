@@ -1,1 +1,4 @@
-
+No Presensi: 08
+Nim: 531419029
+Nama: Riskaldo latif
+URL Repository: https://github.com/riskaldolatif/Raldo-Reach
