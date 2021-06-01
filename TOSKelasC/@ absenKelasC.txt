@@ -14,3 +14,8 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+No Presensi 08
+NIM : 531419050
+Nama : Muhamad Fikri Fathurrohman Walahe
+url Repository : https://github.com/Fikri-Walahe/Java_Penjualan_Kucing
