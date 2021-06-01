@@ -8,7 +8,10 @@ Nim: 531419016
 Nama: Muhammad Fatwa Ibrahim 
 URL Repository: https://github.com/fatwaibr/mekanisme-lomba/tree/main
 
-
+NO Presentasi: 20
+Nim: 531419021
+Nama: Anisa Fadilah Lakepo
+URL Repository : https://github.com/AnisaFadilahLakepo/Tugas-TOS-Github
 
 No Presensi: 22
 Nim: 531419023
