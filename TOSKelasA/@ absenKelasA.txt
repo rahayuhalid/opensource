@@ -1,9 +1,19 @@
+No Presensi: 05
+Nim: 531419005
+Nama: Irwanto Is. Tomu 
+URL Repository: https://github.com/irwanto04/instalasi-windows-dengan-DLC-boot
 
 No Presensi: 15
 Nim: 531419016 
 Nama: Muhammad Fatwa Ibrahim 
 URL Repository: https://github.com/fatwaibr/mekanisme-lomba/tree/main
 
+
+
+No Presensi: 22
+Nim: 531419023
+Nama: Mohamat Nur'ain Gemu
+URL Repository: https://github.com/Ayiiegemu/TOS-Homepage
 
 
 

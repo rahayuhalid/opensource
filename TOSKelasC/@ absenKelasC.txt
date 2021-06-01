@@ -1,1 +1,12 @@
 
+No Presensi : 09
+NIM : 531419051
+Nama : Andi Mohamad Nurholis Sorejang
+Url Repository : github.com/andimohsoreang/php-project
+
+
+No Presensi : 12
+NIM  : 531419054
+Nama : Amirrudin Paneo
+url Repository : https://github.com/AmirPaneo/Landing-Page
+
