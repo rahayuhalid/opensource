@@ -1,3 +1,8 @@
+No Presensi: 04
+Nim: 531419004
+Nama: Febrianti Paputungan
+URL Repository: https://github.com/febriantipaputungan/education
+
 No Presensi: 05
 Nim: 531419005
 Nama: Irwanto Is. Tomu 
