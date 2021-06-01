@@ -9,6 +9,10 @@ Nama: Muhammad Fatwa Ibrahim
 URL Repository: https://github.com/fatwaibr/mekanisme-lomba/tree/main
 
 
+No Presensi: 21
+Nim: 531419022
+Nama: Nur Zalfaa A. Mohi
+URL Repository: https://github.com/nurzalfaa/tebak-angka
 
 No Presensi: 22
 Nim: 531419023
