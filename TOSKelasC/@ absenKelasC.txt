@@ -1,3 +1,7 @@
+No Presensi : 07
+NIM : 531419043
+Nama : Dinar Amalia Khansa
+Url Repository : https://github.com/DinarKhansa/Git01-Dinar
 
 No Presensi : 09
 NIM : 531419051
