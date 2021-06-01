@@ -1,1 +1,7 @@
 
+
+
+No Presensi : 04
+NIM : 531419001
+Nama : Rizky Pakaya
+URL Repository : https://github.com/Rizkypakaya/membuat-shell-programming
