@@ -14,3 +14,8 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+No Presensi : 24
+NIM : 531419068
+Nama : Alessandro Muh. Daffa Koniyo
+Url Repository : https://github.com/alessandrokoniyo/tugasalessandro
