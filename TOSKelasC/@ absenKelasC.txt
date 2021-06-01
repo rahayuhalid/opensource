@@ -14,3 +14,8 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+No Presensi: 16
+Nim: 531419058
+Nama: Tasya Safira Bila
+URL Repository: https://github.com/TasyaSafira/TOS-GIT1/pulls
