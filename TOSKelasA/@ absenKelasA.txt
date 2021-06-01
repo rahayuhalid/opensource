@@ -3,6 +3,13 @@ Nim: 531419005
 Nama: Irwanto Is. Tomu 
 URL Repository: https://github.com/irwanto04/instalasi-windows-dengan-DLC-boot
 
+
+
+No Presensi: 08
+Nim: 531419009
+Nama: Puput Pakaya 
+URL Repository: https://github.com/PuputPakaya/Website
+
 No Presensi: 15
 Nim: 531419016 
 Nama: Muhammad Fatwa Ibrahim 
