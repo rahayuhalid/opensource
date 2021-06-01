@@ -14,3 +14,9 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+No Presensi : 14
+NIM : 531419056
+Nama : Tri Septiaridsar Dangkua
+Url Repository : https://github.com/Trisdankua/TOS-GITHUB1
+
