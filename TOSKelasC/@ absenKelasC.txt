@@ -14,3 +14,8 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+No Presensi: 25
+Nim: 531419069
+Nama: Azhary I. Sumaga
+URL Repository: https://github.com/azharsumaga/tugastos5/network
