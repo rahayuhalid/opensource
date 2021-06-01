@@ -1,1 +1,5 @@
 
+No. Presensi : 11
+Nim : 531419032
+Nama: Agda Edwar Ridwan Soemantry
+URL :https://github.com/Agdaedwar/Website-Komodo
