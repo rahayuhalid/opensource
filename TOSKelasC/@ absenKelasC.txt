@@ -14,3 +14,9 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+
+No Presensi: 17
+Nim: 531419059
+Nama: Radinski Muhamad Pramudya
+URL Repository: https://github.com/RadinskiPramudya/TOS-GITHUB1/network
