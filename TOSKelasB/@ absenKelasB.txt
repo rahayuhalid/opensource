@@ -1,1 +1,6 @@
 
+Nomor Presensi  : 19
+NIM             : 531419041
+Nama            : Alif Lutfi Ikshanul Fikri
+URL Repository  : https://github.com/aliflutfi/Networking-Bersama
+                  https://github.com/aliflutfi/TOS-Informatika
