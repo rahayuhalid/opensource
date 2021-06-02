@@ -19,3 +19,9 @@ Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
 
+
+No Presensi : 20
+Nim : 531419063
+Nama : Mohammad Fauzan Gobel
+URL Repository: https://github.com/FauzanGobel/input-output
+
