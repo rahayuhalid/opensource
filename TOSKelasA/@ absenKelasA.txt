@@ -8,6 +8,13 @@ Nim: 531419016
 Nama: Muhammad Fatwa Ibrahim 
 URL Repository: https://github.com/fatwaibr/mekanisme-lomba/tree/main
 
+
+No Presensi: 17
+Nim: 531419018 
+Nama: Ade Ari Azhari
+URL Repository: https://github.com/adeariazhari/RencanaAdeken/tree/main
+
+
 No Presensi: 22
 Nim: 531419023
 Nama: Mohamat Nur'ain Gemu
