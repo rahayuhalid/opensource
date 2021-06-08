@@ -27,4 +27,11 @@ URL : https://github.com/djedenanji/TOS-Tugas05
 
 
 
+No Presensi: 16
+Nim: 531419017
+Nama: Moh.Syaiful Dg. Matorang
+URL Repository: https://github.com/IpulMatorang/shell-programming
+
+
+
 
