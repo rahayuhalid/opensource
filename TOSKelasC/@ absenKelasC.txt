@@ -3,6 +3,11 @@ NIM : 531419043
 Nama : Dinar Amalia Khansa
 Url Repository : https://github.com/DinarKhansa/Git01-Dinar
 
+No Presensi 08
+NIM : 531419050
+Nama : Muhamad Fikri Fathurrohman Walahe
+url Repository : https://github.com/Fikri-Walahe/Java_Penjualan_Kucing
+
 No Presensi : 09
 NIM : 531419051
 Nama : Andi Mohamad Nurholis Sorejang
@@ -22,6 +27,9 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+
+
 
 No Presensi : 20
 Nim : 531419063
