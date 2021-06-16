@@ -28,10 +28,19 @@ Nim : 531419063
 Nama : Mohammad Fauzan Gobel
 URL Repository: https://github.com/FauzanGobel/input-output
 
+
+No Presensi : 24
+NIM : 531419068
+Nama : Alessandro Muh. Daffa Koniyo
+Url Repository : https://github.com/alessandrokoniyo/tugasalessandro
+
+
+
 No Presensi: 28
 Nim: 531419072
 Nama: Sitti Sahana Fatimah Hasyim
 URL Repository: https://github.com/SahanaHasyim/HTML-Registrasi
+
 
 
 
