@@ -1,23 +1,60 @@
+No Presensi: 02
+Nim: 531419002
+Nama: Alif Alamsyah Tarmidzi Kasim
+URL Repository: https://github.com/alifalamsyah2001/TOS-Alif
+
+
+No Presensi: 04
+Nim: 531419004
+Nama: Febrianti Paputungan
+URL Repository: https://github.com/febriantipaputungan/education
+
+
+
+
 No Presensi: 05
 Nim: 531419005
 Nama: Irwanto Is. Tomu 
 URL Repository: https://github.com/irwanto04/instalasi-windows-dengan-DLC-boot
+
+No Presensi: 09
+Nim: 531419010
+Nama: Fajriyanto Djeden
+URL : https://github.com/djedenanji/TOS-Tugas05
+
 
 No Presensi: 15
 Nim: 531419016 
 Nama: Muhammad Fatwa Ibrahim 
 URL Repository: https://github.com/fatwaibr/mekanisme-lomba/tree/main
 
+No Presensi: 16
+Nim: 531419017
+Nama: Moh.Syaiful Dg. Matorang
+URL Repository: https://github.com/IpulMatorang/shell-programming
+
+No Presensi: 17
+Nim: 531419018 
+Nama: Ade Ari Azhari
+URL Repository: https://github.com/adeariazhari/RencanaAdeken/tree/main
 
 No Presensi: 21
 Nim: 531419022
 Nama: Nur Zalfaa A. Mohi
 URL Repository: https://github.com/nurzalfaa/tebak-angka
 
+
+
 No Presensi: 22
 Nim: 531419023
 Nama: Mohamat Nur'ain Gemu
 URL Repository: https://github.com/Ayiiegemu/TOS-Homepage
+
+
+
+
+
+
 
 
 
