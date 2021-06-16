@@ -1,3 +1,5 @@
+
+
 No. Presensi : 11
 Nim : 531419032
 Nama: Agda Edwar Ridwan Soemantry
@@ -16,6 +18,7 @@ URL Repository: https://github.com/jaim24/htmlcv
 
 
 
-
-
-
+No Presensi: 21
+Nim: 531419044
+Nama: Paris Moridu
+URL Repository: https://github.com/parismoridu/pamor-resolusi
