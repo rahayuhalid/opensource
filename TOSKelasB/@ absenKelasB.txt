@@ -3,3 +3,7 @@ Nim: 531419042
 Nama: Zaiem Athif Syafiullah
 URL Repository: https://github.com/jaim24/htmlcv
 
+No. Presensi : 11
+Nim : 531419032
+Nama: Agda Edwar Ridwan Soemantry
+URL :https://github.com/Agdaedwar/Website-Komodo
