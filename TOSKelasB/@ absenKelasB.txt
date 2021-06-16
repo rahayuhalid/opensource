@@ -1,3 +1,28 @@
+
+No. Presensi : 11
+Nim : 531419032
+Nama: Agda Edwar Ridwan Soemantry
+URL :https://github.com/Agdaedwar/Website-Komodo
+
+Nomor Presensi  : 19
+NIM             : 531419041
+Nama            : Alif Lutfi Ikshanul Fikri
+URL Repository  : https://github.com/aliflutfi/Networking-Bersama
+                  https://github.com/aliflutfi/TOS-Informatika
+
+No Presensi: 20
+Nim: 531419042
+Nama: Zaiem Athif Syafiullah
+URL Repository: https://github.com/jaim24/htmlcv
+
+
+
+No Presensi: 21
+Nim: 531419044
+Nama: Paris Moridu
+URL Repository: https://github.com/parismoridu/pamor-resolusi
+
+
 No Presensi: 25
 Nim: 531419048
 Nama: Renanda Rahmadita Mohamad
