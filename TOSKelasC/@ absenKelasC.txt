@@ -1,9 +1,22 @@
+No Presensi : 07
+NIM : 531419043
+Nama : Dinar Amalia Khansa
+Url Repository : https://github.com/DinarKhansa/Git01-Dinar
+
+No Presensi 08
+NIM : 531419050
+Nama : Muhamad Fikri Fathurrohman Walahe
+url Repository : https://github.com/Fikri-Walahe/Java_Penjualan_Kucing
 
 No Presensi : 09
 NIM : 531419051
 Nama : Andi Mohamad Nurholis Sorejang
 Url Repository : github.com/andimohsoreang/php-project
 
+No Presensi: 11
+Nim: 531419053
+Nama: Adi Junaidi Rahman Daud
+URL Repository: https://github.com/Adi-Junaidi/desain-website-promosi-mobileapp 
 
 No Presensi : 12
 NIM  : 531419054
@@ -14,3 +27,32 @@ No Presensi: 13
 Nim: 531419055
 Nama: Abid Muhaimin Harun
 URL Repository: https://github.com/AbidHarun/program-rumus
+
+
+
+
+
+
+
+No Presensi : 20
+Nim : 531419063
+Nama : Mohammad Fauzan Gobel
+URL Repository: https://github.com/FauzanGobel/input-output
+
+
+No Presensi : 24
+NIM : 531419068
+Nama : Alessandro Muh. Daffa Koniyo
+Url Repository : https://github.com/alessandrokoniyo/tugasalessandro
+
+No Presensi: 25
+Nim: 531419069
+Nama: Azhary I. Sumaga
+URL Repository: https://github.com/azharsumaga/tugastos5/network
+
+
+No Presensi: 28
+Nim: 531419072
+Nama: Sitti Sahana Fatimah Hasyim
+URL Repository: https://github.com/SahanaHasyim/HTML-Registrasi
+
