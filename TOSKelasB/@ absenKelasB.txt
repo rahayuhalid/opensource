@@ -1,7 +1,4 @@
-no presnsi : 16
-NIM : 531419038
-Nama : Muh Fahmi Salim
-https://github.com/FahmiSalim03/FahmiSalim
+
 
 
 
@@ -10,6 +7,17 @@ No. Presensi : 11
 Nim : 531419032
 Nama: Agda Edwar Ridwan Soemantry
 URL :https://github.com/Agdaedwar/Website-Komodo
+
+No Presensi : 15
+NIM : 531419037
+Nama : Atikah Fadlilah Yahya
+URL :  https://github.com/dilaay/Tugas-TOS-Atikah-Fadlilah-Yahya
+
+no presnsi : 16
+NIM : 531419038
+Nama : Muh Fahmi Salim
+https://github.com/FahmiSalim03/FahmiSalim
+
 
 Nomor Presensi  : 19
 NIM             : 531419041
