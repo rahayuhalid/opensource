@@ -31,6 +31,9 @@ URL Repository: https://github.com/AbidHarun/program-rumus
 
 
 
+
+
+
 No Presensi : 20
 Nim : 531419063
 Nama : Mohammad Fauzan Gobel
@@ -42,15 +45,14 @@ NIM : 531419068
 Nama : Alessandro Muh. Daffa Koniyo
 Url Repository : https://github.com/alessandrokoniyo/tugasalessandro
 
+No Presensi: 25
+Nim: 531419069
+Nama: Azhary I. Sumaga
+URL Repository: https://github.com/azharsumaga/tugastos5/network
 
 
 No Presensi: 28
 Nim: 531419072
 Nama: Sitti Sahana Fatimah Hasyim
 URL Repository: https://github.com/SahanaHasyim/HTML-Registrasi
-
-
-
-
-
 
