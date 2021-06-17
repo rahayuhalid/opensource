@@ -67,6 +67,12 @@ Nim: 531419023
 Nama: Mohamat Nur'ain Gemu
 URL Repository: https://github.com/Ayiiegemu/TOS-Homepage
 
+No Presensi: 23
+Nim: 531419024
+Nama: Jihan Khoirun Nisa
+URL Repository: https://github.com/jihanknisa/Materi-Javascript
+
+
 
 
 
