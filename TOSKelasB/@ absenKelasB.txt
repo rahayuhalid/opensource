@@ -1,9 +1,16 @@
 
+
+
+
 No Presensi : 04
 NIM : 531419001
 Nama : Rizky Pakaya
 URL Repository : https://github.com/Rizkypakaya/membuat-shell-programming
 
+No Presensi     : 06
+NIM             : 531419027
+Nama            : Athifah Nur
+URL Repository  : https://github.com/AthifahNur/Tugas5TOS-AthifahNur
 
 
 No. Presensi : 11
@@ -49,7 +56,6 @@ No Presensi: 25
 Nim: 531419048
 Nama: Renanda Rahmadita Mohamad
 https://github.com/RenandaRahmaditaMohamad/Film
-
 
 
 
