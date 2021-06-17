@@ -12,11 +12,19 @@ URL Repository: https://github.com/febriantipaputungan/education
 
 
 
+
+
+
 No Presensi: 05
 Nim: 531419005
 Nama: Irwanto Is. Tomu 
 URL Repository: https://github.com/irwanto04/instalasi-windows-dengan-DLC-boot
 
+
+No Presensi: 06
+Nim: 531419007
+Nama: Abd Halid Suma 
+URL Repository: https://github.com/abdHalidSuma18/TOS-Tugas
 
 No Presensi: 09
 Nim: 531419010
@@ -58,9 +66,6 @@ No Presensi: 22
 Nim: 531419023
 Nama: Mohamat Nur'ain Gemu
 URL Repository: https://github.com/Ayiiegemu/TOS-Homepage
-
-
-
 
 
 
