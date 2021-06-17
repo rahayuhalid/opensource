@@ -1,4 +1,7 @@
 
+
+
+
 No. Presensi : 11
 Nim : 531419032
 Nama: Agda Edwar Ridwan Soemantry
@@ -22,8 +25,13 @@ Nim: 531419044
 Nama: Paris Moridu
 URL Repository: https://github.com/parismoridu/pamor-resolusi
 
+no presensi: 24
+Nim: 531419047
+Nama: Jimilin Gobel
+URL Reposotiry: https://github.com/jimilingobel/Jimilin-TOS-GITHUB
 
 No Presensi: 25
 Nim: 531419048
 Nama: Renanda Rahmadita Mohamad
 https://github.com/RenandaRahmaditaMohamad/Film
+
