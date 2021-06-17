@@ -1,4 +1,7 @@
 
+
+
+
 No Presensi : 04
 NIM : 531419001
 Nama : Rizky Pakaya
@@ -49,6 +52,12 @@ Nim: 531419044
 Nama: Paris Moridu
 URL Repository: https://github.com/parismoridu/pamor-resolusi
 
+
+No Presensi : 23
+NIM : 531419046
+Nama : Mohamad Ikbal
+https://github.com/MohamadIkbal2106/Tugas-Mohamad-Ikbal
+
 no presensi: 24
 Nim: 531419047
 Nama: Jimilin Gobel
@@ -58,6 +67,7 @@ No Presensi: 25
 Nim: 531419048
 Nama: Renanda Rahmadita Mohamad
 https://github.com/RenandaRahmaditaMohamad/Film
+
 
 
 
