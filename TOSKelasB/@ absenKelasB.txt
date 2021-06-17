@@ -1,7 +1,4 @@
 
-
-
-
 No Presensi : 04
 NIM : 531419001
 Nama : Rizky Pakaya
@@ -12,6 +9,11 @@ NIM             : 531419027
 Nama            : Athifah Nur
 URL Repository  : https://github.com/AthifahNur/Tugas5TOS-AthifahNur
 
+
+NO PRESENSI: 07
+NIM:531419028
+NAMA: MUH AGIL ALVITO PAPUTUNGAN
+URL: HTTPS://github.com/agilalvitopaputungan/opensource
 
 No. Presensi : 11
 Nim : 531419032
