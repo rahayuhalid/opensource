@@ -2,6 +2,9 @@
 
 
 
+
+
+
 No Presensi : 04
 NIM : 531419001
 Nama : Rizky Pakaya
@@ -32,6 +35,11 @@ no presnsi : 16
 NIM : 531419038
 Nama : Muh Fahmi Salim
 https://github.com/FahmiSalim03/FahmiSalim
+
+No Presensi: 17
+Nim: 531419039
+Nama: Muh Putra Algibran 
+URL Repository: https://github.com/PutraAlgibran/Web-Kabupaten-Buol
 
 
 Nomor Presensi  : 19
@@ -67,7 +75,5 @@ No Presensi: 25
 Nim: 531419048
 Nama: Renanda Rahmadita Mohamad
 https://github.com/RenandaRahmaditaMohamad/Film
-
-
 
 
