@@ -8,6 +8,9 @@
 
 
 
+
+
+
 No Presensi : 04
 NIM : 531419001
 Nama : Rizky Pakaya
@@ -23,6 +26,12 @@ NO PRESENSI: 07
 NIM:531419028
 NAMA: MUH AGIL ALVITO PAPUTUNGAN
 URL: HTTPS://github.com/agilalvitopaputungan/opensource
+
+No Presensi: 08
+NIM: 531419029
+Nama: Riskaldo latif
+URL Repository: https://github.com/riskaldolatif/Raldo-Reach
+
 
 No. Presensi : 11
 Nim : 531419032
