@@ -1,4 +1,4 @@
 No presensi : 22
 NIM : 531419045
 Nama : Siti Zalyah Gelo
-URL Repository : https://github.com/zalyahg/Tugas-Tos5-Siti-Zalyah-Gelo/tree/css-latihan2c
+URL Repository : https://github.com/zalyahg/TOS_5
