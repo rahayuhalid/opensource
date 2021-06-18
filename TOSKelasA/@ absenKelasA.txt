@@ -20,11 +20,16 @@ Nim: 531419005
 Nama: Irwanto Is. Tomu 
 URL Repository: https://github.com/irwanto04/instalasi-windows-dengan-DLC-boot
 
-
 No Presensi: 06
 Nim: 531419007
 Nama: Abd Halid Suma 
 URL Repository: https://github.com/abdHalidSuma18/TOS-Tugas
+
+No Presensi: 07
+Nim : 531419008
+Nama : Resa Raupu
+URL Repository : https://github.com/ResaRaupu/opensource/edit/master/TOSKelasA/@%20absenKelasA.txt
+
 
 No Presensi: 09
 Nim: 531419010
@@ -35,9 +40,6 @@ No Presensi: 14
 Nim: 531419015
 Nama: Yuyun Andriani Suma
 URL Repository: https://github.com/Yun27/Biodata
-
-
-
 
 
 No Presensi: 15
