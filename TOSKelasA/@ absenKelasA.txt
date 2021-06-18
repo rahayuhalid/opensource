@@ -36,10 +36,18 @@ Nim: 531419007
 Nama: Abd Halid Suma 
 URL Repository: https://github.com/abdHalidSuma18/TOS-Tugas
 
+
 No Presensi: 07
 Nim : 531419008
 Nama : Resa Raupu
 URL Repository : https://github.com/ResaRaupu/opensource/edit/master/TOSKelasA/@%20absenKelasA.txt
+
+No Presensi: 08
+Nim: 531419009
+Nama: Puput Pakaya 
+URL Repository: https://github.com/PuputPakaya/Website
+
+
 
 
 No Presensi: 09
