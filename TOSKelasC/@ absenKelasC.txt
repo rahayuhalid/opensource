@@ -34,11 +34,19 @@ URL Repository: https://github.com/AbidHarun/program-rumus
 
 
 
+
+
+
 No Presensi : 20
 Nim : 531419063
 Nama : Mohammad Fauzan Gobel
 URL Repository: https://github.com/FauzanGobel/input-output
 
+
+No Presensi : 22
+NIM : 531419065
+Nama : Nadia Rafiudin
+Url Repository : https://github.com/nadiarafiudin/Git1nadia
 
 No Presensi : 24
 NIM : 531419068
