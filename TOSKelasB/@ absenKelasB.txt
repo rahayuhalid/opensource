@@ -5,6 +5,12 @@
 
 
 
+
+
+
+
+
+
 No Presensi : 04
 NIM : 531419001
 Nama : Rizky Pakaya
@@ -20,6 +26,12 @@ NO PRESENSI: 07
 NIM:531419028
 NAMA: MUH AGIL ALVITO PAPUTUNGAN
 URL: HTTPS://github.com/agilalvitopaputungan/opensource
+
+No Presensi: 08
+NIM: 531419029
+Nama: Riskaldo latif
+URL Repository: https://github.com/riskaldolatif/Raldo-Reach
+
 
 No. Presensi : 11
 Nim : 531419032
@@ -41,6 +53,11 @@ Nim: 531419039
 Nama: Muh Putra Algibran 
 URL Repository: https://github.com/PutraAlgibran/Web-Kabupaten-Buol
 
+
+No Presensi: 18
+Nim: 531419040
+Nama: Dandi Septian Laminullah
+URL Repository: https://github.com/dandilaminullah/Program-Java/blob/main/classKamar.java
 
 Nomor Presensi  : 19
 NIM             : 531419041
@@ -75,5 +92,6 @@ No Presensi: 25
 Nim: 531419048
 Nama: Renanda Rahmadita Mohamad
 https://github.com/RenandaRahmaditaMohamad/Film
+
 
 

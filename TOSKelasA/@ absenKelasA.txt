@@ -1,13 +1,24 @@
+
+
+
+
+
 No Presensi: 02
 Nim: 531419002
 Nama: Alif Alamsyah Tarmidzi Kasim
 URL Repository: https://github.com/alifalamsyah2001/TOS-Alif
+
+No Presensi: 03
+Nim: 531419003
+Nama: Althaf Ekky Hinur 
+URL Repository:https://github.com/ekky2021/website
 
 
 No Presensi: 04
 Nim: 531419004
 Nama: Febrianti Paputungan
 URL Repository: https://github.com/febriantipaputungan/education
+
 
 
 
@@ -26,10 +37,18 @@ Nama: Abd Halid Suma
 URL Repository: https://github.com/abdHalidSuma18/TOS-Tugas
 
 
+No Presensi: 07
+Nim : 531419008
+Nama : Resa Raupu
+URL Repository : https://github.com/ResaRaupu/opensource/edit/master/TOSKelasA/@%20absenKelasA.txt
+
 No Presensi: 08
 Nim: 531419009
 Nama: Puput Pakaya 
 URL Repository: https://github.com/PuputPakaya/Website
+
+
+
 
 No Presensi: 09
 Nim: 531419010
@@ -40,9 +59,6 @@ No Presensi: 14
 Nim: 531419015
 Nama: Yuyun Andriani Suma
 URL Repository: https://github.com/Yun27/Biodata
-
-
-
 
 
 No Presensi: 15
@@ -80,7 +96,10 @@ URL Repository: https://github.com/jihanknisa/Materi-Javascript
 
 
 
-
+No Presensi: 19
+Nim: 531419020 
+Nama: Moh Ammar Raihan Abdul 
+URL Repository: https://github.com/RaihanAbdul99/Tugas-5.git
 
 
 
