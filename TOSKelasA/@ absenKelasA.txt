@@ -1,8 +1,5 @@
 
 
-
-
-
 No Presensi: 02
 Nim: 531419002
 Nama: Alif Alamsyah Tarmidzi Kasim
@@ -18,10 +15,6 @@ No Presensi: 04
 Nim: 531419004
 Nama: Febrianti Paputungan
 URL Repository: https://github.com/febriantipaputungan/education
-
-
-
-
 
 
 
@@ -76,6 +69,12 @@ Nim: 531419018
 Nama: Ade Ari Azhari
 URL Repository: https://github.com/adeariazhari/RencanaAdeken/tree/main
 
+No Presensi: 19
+Nim: 531419020 
+Nama: Moh Ammar Raihan Abdul 
+URL Repository: https://github.com/RaihanAbdul99/Tugas-5.git
+
+
 No Presensi: 21
 Nim: 531419022
 Nama: Nur Zalfaa A. Mohi
@@ -88,18 +87,20 @@ Nim: 531419023
 Nama: Mohamat Nur'ain Gemu
 URL Repository: https://github.com/Ayiiegemu/TOS-Homepage
 
+
+
 No Presensi: 23
 Nim: 531419024
 Nama: Jihan Khoirun Nisa
 URL Repository: https://github.com/jihanknisa/Materi-Javascript
 
 
+No Presensi: 24
+Nim: 531419025
+Nama: Viviwidyawaty A. Musa
+URL Repository: https://github.com/pemulabelajarcoding/vivi-tugas-TOS-5-Github
 
 
-No Presensi: 19
-Nim: 531419020 
-Nama: Moh Ammar Raihan Abdul 
-URL Repository: https://github.com/RaihanAbdul99/Tugas-5.git
 
 
 
