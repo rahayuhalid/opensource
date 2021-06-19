@@ -72,9 +72,9 @@ Nim: 531419018
 Nama: Ade Ari Azhari
 URL Repository: https://github.com/adeariazhari/RencanaAdeken/tree/main
 
-No Presensi: 19
-Nim: 531419020 
-Nama: Moh Ammar Raihan Abdul 
+No Presensi : 19
+Nim         : 531419020 
+Nama        : Moh Ammar Raihan Abdul 
 URL Repository: https://github.com/RaihanAbdul99/Tugas-5.git
 
 
