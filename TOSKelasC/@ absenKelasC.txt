@@ -34,6 +34,14 @@ NIM : 531419056
 Nama : Tri Septiaridsar Dangkua
 Url Repository : https://github.com/Trisdankua/TOS-GITHUB1
 
+No Presensi: 16
+Nim: 531419058
+Nama: Tasya Safira Bila
+URL Repository: https://github.com/TasyaSafira/TOS-GIT1/pulls
+
+
+
+
 
 No Presensi: 17
 Nim: 531419059
@@ -68,6 +76,5 @@ No Presensi: 28
 Nim: 531419072
 Nama: Sitti Sahana Fatimah Hasyim
 URL Repository: https://github.com/SahanaHasyim/HTML-Registrasi
-
 
 
