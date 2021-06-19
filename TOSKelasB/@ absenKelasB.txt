@@ -1,16 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
 No Presensi : 04
 NIM : 531419001
 Nama : Rizky Pakaya
@@ -76,6 +64,11 @@ No Presensi: 21
 Nim: 531419044
 Nama: Paris Moridu
 URL Repository: https://github.com/parismoridu/pamor-resolusi
+
+No presensi : 22
+NIM : 531419045
+Nama : Siti Zalyah Gelo
+URL Repository : https://github.com/zalyahg/TOS_5
 
 
 No Presensi : 23
