@@ -57,6 +57,11 @@ NIM: 531420026
 Nama: Herdin H. Dukalang
 URL Repository: https://github.com/Herdin22/Tugasherdin
 
+No Presensi: 21
+NIM: 531420029
+Nama: Ru Arba'at Sentrasia
+URL Repository: https://github.com/RuArbaatSentrasia/Tugas-TOS
+
 No Presensi: 22
 NIM: 531420030
 Nama: Sadli Fardiansyah Tjia
