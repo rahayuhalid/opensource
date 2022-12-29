@@ -42,6 +42,12 @@ NIM: 531420013
 Nama: Jumi R Yano
 URL Repository: https://github.com/jumiyano/Tugas-TOS
 
+
+No Presensi: 13
+NIM: 531420015
+Nama : Rahayu Halid
+URL Repository: https://github.com/rahayuhalid/Tugas-Rahayu
+
 No Presensi: 17
 NIM: 531420019
 Nama: Nurul Fadillah H.Daud
