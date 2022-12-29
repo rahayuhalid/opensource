@@ -1,10 +1,10 @@
 PERATURAN PENGISIAN DATA: Jaga selalu agar urutan data di file ini sesuai dengan urutan nomor presensi.
 
 
-No Presensi: ...
-NIM: ...
-Nama: ...
-URL Repository: ...
+No Presensi: 09
+NIM: 531420011
+Nama: Andresito Polamolo
+URL Repository: https://github.com/AndrePolamolo/TUGAS_TOS
 
 No Presensi: 3
 NIM: 531420004
