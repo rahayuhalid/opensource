@@ -6,8 +6,6 @@ NIM: ...
 Nama: ...
 URL Repository: ...
 
-
-
 No Presensi: 3
 NIM: 531420004
 Nama: I Putu Jovano
@@ -35,6 +33,11 @@ NIM: 531420012
 Nama: Sri Lutfianti
 URL Repository: https://github.com/Srilutfianti/cara-memakai-pasmina 
 
+No Presensi: 11
+NIM: 531420013
+Nama: Jumi R Yano
+URL Repository: https://github.com/jumiyano/Tugas-TOS
+
 No Presensi: 18
 NIM: 531420022
 Nama: Nur Septhya Razak
@@ -49,3 +52,4 @@ No Presensi: 22
 NIM: 531420030
 Nama: Sadli Fardiansyah Tjia
 URL Repository: https://github.com/Sadlitjia/TOS-Sadli
+
