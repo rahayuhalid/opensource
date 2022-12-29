@@ -12,6 +12,8 @@ Nama: I Putu Jovano
 URL Repository: https://docs.google.com/spreadsheets/d/1Vu1aT9F3rtfg37NBbyNwFEVMfPQPPbxmGYzd5XWCZk0/edit?usp=sharing
 
 
+=======
+
 No Presensi: 05
 NIM: 531420006
 Nama: Aulia Nurfajila Hasan
@@ -38,6 +40,11 @@ NIM: 531420013
 Nama: Jumi R Yano
 URL Repository: https://github.com/jumiyano/Tugas-TOS
 
+No Presensi: 17
+NIM: 531420019
+Nama: Nurul Fadillah H.Daud
+URL Repository: https://github.com/fadillahdaud/Tugas-Teknologi-Open-Source 
+
 No Presensi: 18
 NIM: 531420022
 Nama: Nur Septhya Razak
@@ -52,4 +59,3 @@ No Presensi: 22
 NIM: 531420030
 Nama: Sadli Fardiansyah Tjia
 URL Repository: https://github.com/Sadlitjia/TOS-Sadli
-
