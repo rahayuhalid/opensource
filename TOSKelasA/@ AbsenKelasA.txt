@@ -52,6 +52,11 @@ NIM: 531420022
 Nama: Nur Septhya Razak
 URL Repository: https://github.com/nursepthya/Tugas-TOS-Nursepthya
 
+No Presensi: 19
+NIM: 531420024
+Nama: Nabilah Salsabila
+URL Repository: https://github.com/nabilahsalsabila/Tugas-TOS
+
 No Presensi:20
 NIM: 531420026
 Nama: Herdin H. Dukalang
