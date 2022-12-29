@@ -14,6 +14,11 @@ Nama: I Putu Jovano
 URL Repository: https://docs.google.com/spreadsheets/d/1Vu1aT9F3rtfg37NBbyNwFEVMfPQPPbxmGYzd5XWCZk0/edit?usp=sharing
 
 
+No Presensi: 05
+NIM: 531420006
+Nama: Aulia Nurfajila Hasan
+URL Repository: https://github.com/aulianurfh/TOS-Aulia 
+
 No Presensi: 07
 NIM: 531420008
 Nama: Nisya Fiscadilla Pala
