@@ -1,8 +1,6 @@
 PERATURAN PENGISIAN DATA: Jaga selalu agar urutan data di file ini sesuai dengan urutan nomor presensi.
 
 
-
-
 No Presensi: ...
 NIM: ...
 Nama: ...
@@ -31,6 +29,11 @@ No Presensi:10
 NIM: 531420012
 Nama: Sri Lutfianti
 URL Repository: https://github.com/Srilutfianti/cara-memakai-pasmina 
+
+No Presensi: 18
+NIM: 531420022
+Nama: Nur Septhya Razak
+URL Repository: https://github.com/nursepthya/Tugas-TOS-Nursepthya
 
 No Presensi:20
 NIM: 531420026
