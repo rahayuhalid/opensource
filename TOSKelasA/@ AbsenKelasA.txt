@@ -1,19 +1,37 @@
 PERATURAN PENGISIAN DATA: Jaga selalu agar urutan data di file ini sesuai dengan urutan nomor presensi.
 
+
+
+No Presensi: ...
+NIM: ...
+Nama: ...
+URL Repository: ...
+
+
+
+No Presensi: 3
+NIM: 531420004
+Nama: I Putu Jovano
+URL Repository: https://docs.google.com/spreadsheets/d/1Vu1aT9F3rtfg37NBbyNwFEVMfPQPPbxmGYzd5XWCZk0/edit?usp=sharing
+
+
 No Presensi: 07
 NIM: 531420008
 Nama: Nisya Fiscadilla Pala
 URL Repository: https://github.com/NisyaFiscadilla/UasTos
 
 
-No Presensi: ...
-NIM: ...
-Nama: ...
-URL Repository: ...
+No Presensi: 08
+NIM: 531420010
+Nama: Nurlia Panigoro
+URL Repository: https://github.com/Nurliapanigoro/Tugas-TOS 
 
+No Presensi:10
+NIM: 531420012
+Nama: Sri Lutfianti
+URL Repository: https://github.com/Srilutfianti/cara-memakai-pasmina 
 
-
-No Presensi: ...
-NIM: ...
-Nama: ...
-URL Repository: ...
+No Presensi: 22
+NIM: 531420030
+Nama: Sadli Fardiansyah Tjia
+URL Repository: https://github.com/Sadlitjia/TOS-Sadli
