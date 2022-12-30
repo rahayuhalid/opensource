@@ -54,6 +54,12 @@ NIM: 531420014
 Nama: Hazral Meisa Arsad
 URL Repository: https://github.com/hazralmeisaarsyad/Tugas-TOS
 
+No Presensi: 13
+NIM: 531420015
+Nama:Rahayu Halid
+URL Repository:https://github.com/rahayuhalid/Tugas-Rahayu
+https://github.com/rahayuhalid/Tugas-Rahayu
+
 
 No Presensi: 14
 NIM: 531420016
