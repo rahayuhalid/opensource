@@ -9,8 +9,6 @@ Nama: I Putu Jovano
 URL Repository: https://docs.google.com/spreadsheets/d/1Vu1aT9F3rtfg37NBbyNwFEVMfPQPPbxmGYzd5XWCZk0/edit?usp=sharing
 
 
-=======
-
 No Presensi: 05
 NIM: 531420006
 Nama: Aulia Nurfajila Hasan
@@ -41,6 +39,11 @@ No Presensi: 11
 NIM: 531420013
 Nama: Jumi R Yano
 URL Repository: https://github.com/jumiyano/Tugas-TOS
+
+No Presensi: 14
+NIM: 531420016
+Nama: Sakila Gobel
+URL Repository: https://github.com/sakilagobel/TOS-Tugas
 
 No Presensi: 17
 NIM: 531420019
