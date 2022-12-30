@@ -33,6 +33,16 @@ Nama: Nurlia Panigoro
 URL Repository: https://github.com/Nurliapanigoro/Tugas-TOS 
 
 No Presensi: 09
+
+
+
+
+
+
+
+
+
+
 NIM: 531420011
 Nama: Andresito Polamolo
 URL Repository: https://github.com/AndrePolamolo/TUGAS_TOS
@@ -54,6 +64,10 @@ NIM: 531420014
 Nama: Hazral Meisa Arsad
 URL Repository: https://github.com/hazralmeisaarsyad/Tugas-TOS
 
+No Presensi: 13
+NIM: 531420015
+Nama: Rahayu Halid
+URL Repository: https://github.com/rahayuhalid/Tugas-Rahayu
 
 No Presensi: 14
 NIM: 531420016
